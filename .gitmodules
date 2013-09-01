@@ -2,3 +2,6 @@
 	path = tst_sub1
 	url = https://github.com/shaymoshe-vayyar/tst_sub1
 
+[submodule "tst_sub3"]
+	path = tst_sub3
+	url = https://github.com/shaymoshe-vayyar/tst_sub3
